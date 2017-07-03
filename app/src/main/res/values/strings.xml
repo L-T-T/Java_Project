@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Login and Registration</string>
+    <string name="hint_email">账号</string>
+    <string name="hint_password">密码</string>
+    <string name="hint_name">昵称</string>
+    <string name="btn_login">登录</string>
+    <string name="btn_register">注册</string>
+    <string name="btn_link_to_register">还不是会员？请先注册</string>
+    <string name="btn_link_to_login">已经注册了，请登录</string>
+    <string name="welcome">欢迎</string>
+    <string name="btn_logout">登出</string>
+    <string name="name">Fullname</string>
+
+</resources>
